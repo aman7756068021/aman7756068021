@@ -22,9 +22,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img src="https://revelry.co/wp-content/uploads/2019/05/react-native-UX-design.gif" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img src="https://surfingthecode.com/img/python.gif" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
@@ -39,7 +39,13 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aman-shaikh-721b38226/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" height="80" width = "100" alt="linkedin logo"  />
+  </a>
+
+
+
+  <a href="https://www.novypro.com/profile_projects/amanshaikh" target="_blank">
+    <img src="https://f2fa1cdd9340fae53fcb49f577292458.cdn.bubble.io/f1652315708983x844618127003955700/novyPro%20SVG%20full%20Logo%20White%20Text.svg" height="80" width = "100" alt="linkedin logo"  />
   </a>
 </div>
 
