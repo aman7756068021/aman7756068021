@@ -1,5 +1,4 @@
-<h1 align="center">👋 Hi, I'm Aman Shaikh</h1>
-<h3 align="center">Data Analyst | Transforming Raw Data into Meaningful Insights</h3>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Aman Shaikh..<h3 align="center">Data Analyst | Transforming Raw Data into Meaningful Insights</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gitimaad&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
