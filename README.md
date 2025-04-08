@@ -43,3 +43,8 @@
 
 ### 💡 Fun Fact
 📌 I believe **"Data tells a story, and I love to interpret it!"**
+
+
+
+[![Aman github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aman7756068021&bg_color=241f31&color=deddda&line=53b14f&point=deddda&area=true&hide_border=true)](https://github.com/aman7756068021/github-readme-activity-graph)
+
